@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26211c</color>
+    <color name="colorPrimaryDark">#26211c</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorCircleGrey">#9E9E9E</color>
+    <color name="colorCircleFocus">#050505</color>
+    <color name="colorCircleYellow">#ffc13b</color>
+    <color name="colorBack">#ffffff</color>
+    <color name="colorBtnNumber">#d9dee3</color>
+    <color name="colorCardView">#f5f0e1</color>
+    d9dee3
+
+</resources>
